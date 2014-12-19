@@ -1,4 +1,4 @@
-Welcome to the Princeton Jersey NodeSchool Page 
+Welcome to the Princeton New Jersey NodeSchool Page 
 ======
 We're a volunteer-run education group in New Jersey. 
 Please submit an issue if you're interested in contacting us.
